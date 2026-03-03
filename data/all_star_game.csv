@@ -1,0 +1,201 @@
+Game,Venue,Date,AL,NL
+Game,All-Star Game Venue,Date | Box,A.L.,N.L.
+1,"Comiskey Park
+Chicago, Illinois",07-06-1933,4,2
+2,"Polo Grounds
+New York, New York",07-10-1934,9,7
+3,"Municipal Stadium
+Cleveland, Ohio",07-08-1935,4,1
+4,"Braves Field
+Boston, Massachusetts",07-07-1936,3,4
+5,"Griffith Stadium
+Washington, D.C.",07-07-1937,8,3
+6,"Crosley Field
+Cincinnati, Ohio",07-06-1938,1,4
+7,"Yankee Stadium
+New York, New York",07-11-1939,3,1
+8,"Sportsman's Park
+St. Louis, Missouri",07-09-1940,0,4
+9,"Briggs Stadium
+Detroit, Michigan",07-08-1941,7,5
+10,"Polo Grounds
+New York, New York",07-06-1942,3,1
+11,"Shibe Park
+Philadelphia, Pennsylvania",07-13-1943,5,3
+12,"Forbes Field
+Pittsburgh, Pennsylvania",07-11-1944,1,7
+n/a,"Fenway Park
+Boston, Massachusetts",07-10-1945,n/a,n/a
+13,"Fenway Park
+Boston, Massachusetts",07-09-1946,12,0
+14,"Wrigley Field
+Chicago, Illinois",07-08-1947,2,1
+15,"Sportsman's Park
+St. Louis, Missouri",07-13-1948,5,2
+16,"Ebbets Field
+Brooklyn, New York",07-12-1949,11,7
+17,"Comiskey Park
+Chicago, Illinois",07-11-1950,3,4
+18,"Briggs Stadium
+Detroit, Michigan",07-10-1951,3,8
+19,"Shibe Park
+Philadelphia, Pennsylvania",07-08-1952,2,3
+20,"Crosley Field
+Cincinnati, Ohio",07-14-1953,1,5
+21,"Municipal Stadium
+Cleveland, Ohio",07-13-1954,11,9
+22,"County Stadium
+Milwaukee, Wisconsin",07-12-1955,5,6
+23,"Griffith Stadium
+Washington, D.C.",07-10-1956,3,7
+24,"Busch Stadium
+St. Louis, Missouri",07-09-1957,6,5
+25,"Memorial Stadium
+Baltimore, Maryland",07-08-1958,4,3
+26,"Forbes Field
+Pittsburgh, Pennsylvania",07-07-1959,4,5
+27,"Memorial Coliseum
+Los Angeles, California",08-03-1959,5,3
+28,"Municipal Stadium
+Kansas City, Missouri",07-11-1960,3,5
+29,"Yankee Stadium
+New York, New York",07-13-1960,0,6
+30,"Candlestick Park
+San Francisco, California",07-11-1961,4,5
+31,"Fenway Park
+Boston, Massachusetts",07-31-1961,1,1
+32,"D.C. Stadium
+Washington, D.C.",07-10-1962,1,3
+33,"Wrigley Field
+Chicago, Illinois",07-30-1962,9,4
+34,"Municipal Stadium
+Cleveland, Ohio",07-09-1963,3,5
+35,"Shea Stadium
+New York, New York",07-07-1964,4,7
+36,"Metropolitan Stadium
+Bloomington, Minnesota",07-13-1965,5,6
+37,"Busch Memorial Stadium
+St. Louis, Missouri",07-12-1966,1,2
+38,"Anaheim Stadium
+Anaheim, California",07-11-1967,1,2
+39,"Astrodome
+Houston, Texas",07-09-1968,0,1
+40,"R.F.K. Memorial Stadium
+Washington, D.C.",07-23-1969,3,9
+41,"Riverfront Stadium
+Cincinnati, Ohio",07-14-1970,4,5
+42,"Tiger Stadium
+Detroit, Michigan",07-13-1971,6,4
+43,"Atlanta-Fulton County Stadium
+Atlanta, Georgia",07-25-1972,3,4
+44,"Royals Stadium
+Kansas City, Missouri",07-24-1973,1,7
+45,"Three Rivers Stadium
+Pittsburgh, Pennsylvania",07-23-1974,2,7
+46,"County Stadium
+Milwaukee, Wisconsin",07-15-1975,3,6
+47,"Veterans Stadium
+Philadelphia, Pennsylvania",07-13-1976,1,7
+48,"Yankee Stadium
+New York, New York",07-19-1977,5,7
+49,"San Diego Stadium
+San Diego, California",07-11-1978,3,7
+50,"Kingdome
+Seattle, Washington",07-17-1979,6,7
+51,"Dodger Stadium
+Los Angeles, California",07-08-1980,2,4
+52,"Municipal Stadium
+Cleveland, Ohio",08-09-1981,4,5
+53,"Olympic Stadium
+Montreal, Quebec",07-13-1982,1,4
+54,"Comiskey Park
+Chicago, Illinois",07-06-1983,13,3
+55,"Candlestick Park
+San Francisco, California",07-10-1984,1,3
+56,"H. Humphrey Metrodome
+Minneapolis, Minnesota",07-16-1985,1,6
+57,"Astrodome
+Houston, Texas",07-15-1986,3,2
+58,"Oakland-Alameda County Coliseum
+Oakland, California",07-14-1987,0,2
+59,"Riverfront Stadium
+Cincinnati, Ohio",07-12-1988,2,1
+60,"Anaheim Stadium
+Anaheim, California",07-11-1989,5,3
+61,"Wrigley Field
+Chicago, Illinois",07-10-1990,2,0
+62,"SkyDome
+Toronto, Ontario",07-09-1991,4,2
+63,"Jack Murphy Stadium
+San Diego, California",07-14-1992,13,6
+64,"Oriole Park at Camden Yards
+Baltimore, Maryland",07-13-1993,9,3
+65,"Three Rivers Stadium
+Pittsburgh, Pennsylvania",07-12-1994,7,8
+66,"The Ballpark at Arlington
+Arlington, Texas",07-11-1995,2,3
+67,"Veterans Stadium
+Philadelphia, Pennsylvania",07-09-1996,0,6
+68,"Jacobs Field
+Cleveland, Ohio",07-08-1997,3,1
+69,"Coors Field
+Denver, Colorado",07-07-1998,13,8
+70,"Fenway Park
+Boston, Massachusetts",07-13-1999,4,1
+71,"Turner Field
+Atlanta, Georgia",07-11-2000,6,3
+72,"Safeco Field
+Seattle, Washington",07-10-2001,4,1
+73,"Miller Park
+Milwaukee, Wisconsin",07-09-2002,7,7
+74,"U.S. Cellular Field
+Chicago, Illinois",07-15-2003,7,6
+75,"Minute Maid Park
+Houston, Texas",07-13-2004,9,4
+76,"Comerica Park
+Detroit, Michigan",07-12-2005,7,5
+77,"PNC Park
+Pittsburgh, Pennsylvania",07-11-2006,3,2
+78,"AT&T Park
+San Francisco, California",07-10-2007,5,4
+79,"Yankee Stadium
+New York, New York",07-15-2008,4,3
+80,"Busch Stadium
+St. Louis, Missouri",07-14-2009,4,3
+81,"Angel Stadium of Anaheim
+Anaheim, California",07-13-2010,1,3
+82,"Chase Field
+Phoenix, Arizona",07-12-2011,1,5
+83,"Kauffman Stadium
+Kansas City, Missouri",07-10-2012,0,8
+84,"Citi Field
+New York, New York",07-16-2013,3,0
+85,"Target Field
+Minneapolis, Minnesota",07-15-2014,5,3
+86,"Great American Ballpark
+Cincinnati, Ohio",07-14-2015,6,3
+87,"Petco Park
+San Diego, California",07-12-2016,4,2
+88,"Marlins Park
+Miami, Florida",07-11-2017,2,1
+89,"Nationals Park
+Washington, D.C.",07-17-2018,8,6
+90,"Progressive Field
+Cleveland, Ohio",07-09-2019,4,3
+n/a,"Dodger Stadium
+Los Angeles, California",07-14-2020,n/a,n/a
+91,"Coors Field
+Denver, Colorado",07-13-2021,5,2
+92,"Dodger Stadium
+Los Angeles, California",07-19-2022,3,2
+93,"T-Mobile Park
+Seattle, Washington",07-11-2023,2,3
+94,"Globe Life Field
+Arlington, Texas",07-16-2024,5,3
+95,"Truist Park
+Atlanta, Georgia",07-15-2025,6,7
+96,"Citizens Bank Park
+Philadelphia, Pennsylvania",07-14-2026,--,--
+97,"Wrigley Field
+Chicago, Illinois",July 2027,--,--
+Game,All-Star Game Venue,Date | Box,A.L.,N.L.
