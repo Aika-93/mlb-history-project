@@ -6,6 +6,14 @@ This project collects, cleans, stores, queries, and visualizes Major League Base
 
 The workflow includes web scraping, data import and cleaning, SQL queries, and interactive dashboards built with Dash and Plotly Express
 
+## Live Demo
+
+https://mlb-history-project.onrender.com/
+
+## Dashboard Screenshot 
+
+![MLB Dashboard](screenshot.png)
+
 ## Project Structure
 
 - `scraper.py` - Scrapes MLB data from web sources
