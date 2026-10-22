@@ -47,7 +47,7 @@ https://mlb-history-project.onrender.com/
 - Awards: All-Star MVP (64 records), Cy Young (132), Rookie of the Year (160).
 - Managers: 54 team managers with their years in charge.
   
-##How to Run
+## How to Run
 
 Run the scraper:
 - `python scraper.py`
