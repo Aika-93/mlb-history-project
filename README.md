@@ -46,6 +46,24 @@ https://mlb-history-project.onrender.com/
 - All-Star Games: 95 games, 1933-2025 (venue, date, AL/NL score).
 - Awards: All-Star MVP (64 records), Cy Young (132), Rookie of the Year (160).
 - Managers: 54 team managers with their years in charge.
+
+## Sample query
+
+All-Star Games joined with the game's MVP winner by year:
+
+```sql
+SELECT g.Year, g.Venue, g.AL, g.NL, m.Name AS MVP, m.Team
+FROM all_star_game AS g
+JOIN all_star_mvp_award AS m ON g.Year = m.Year
+ORDER BY g.Year DESC
+LIMIT 5;
+```
+
+| Year | Venue | AL | NL | MVP | Team |
+| --- | --- | --- | --- | --- | --- |
+| 2025 | Truist Park, Atlanta | 6 | 7 | Kyle Schwarber | Philadelphia Phillies |
+| 2024 | Globe Life Field, Arlington | 5 | 3 | Jarren Duran | Boston Red Sox |
+| 2023 | T-Mobile Park, Seattle | 2 | 3 | Elias Díaz | Colorado Rockies |
   
 ## How to Run
 
