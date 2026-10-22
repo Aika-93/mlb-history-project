@@ -40,7 +40,14 @@ https://mlb-history-project.onrender.com/
 - Command-line interface
 - Interactive data visualization
 
-## How to Run
+## Data Facts 
+- Source: MLB historical data collected with a Python web scraper.
+- Database: SQLite, 5 tables, 505 records in total.
+- All-Star Games: 95 games, 1933-2025 (venue, date, AL/NL score).
+- Awards: All-Star MVP (64 records), Cy Young (132), Rookie of the Year (160).
+- Managers: 54 team managers with their years in charge.
+  
+##How to Run
 
 Run the scraper:
 - `python scraper.py`
